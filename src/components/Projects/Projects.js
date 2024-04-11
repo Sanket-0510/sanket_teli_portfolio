@@ -38,8 +38,8 @@ function Projects() {
               isBlog={false}
               title="Portfolio Blogs"
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/Sanket-0510/sanket_teli_portfolio"
+              demoLink="https://github.com/Sanket-0510/sanket_teli_portfolio"
             />
           </Col>
 
